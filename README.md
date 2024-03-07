@@ -4,8 +4,8 @@
 
 API Specification documents for e-commerce (online) and physical (offline) merchants
 
-# NEW TO RAZER MERCHANT SERVICES?
-Razer Merchant Services (RMS) is payment gateway and payment service provider that serves multiple top e-commerce platforms and most of the well-known branding in Southeast Asia region. 
+# NEW TO FIUU?
+Fiuu is payment gateway and payment service provider that serves multiple top e-commerce platforms and most of the well-known branding in Southeast Asia region. 
 High availability and interoperability with single API integration allows merchant to perform payment orchestration regionally in compliant manner.
 
 
@@ -47,22 +47,22 @@ RMS Escrow & Mass Payout API : This document is available upon request only due 
 
 
 ## Resources
-- GitHub:     https://github.com/RazerMS
-- Website:    https://merchant.razer.com/
-- Twitter:    https://twitter.com/Razer_MS
-- YouTube:    https://www.youtube.com/c/RazerMerchantServices
-- Facebook:   https://www.facebook.com/RazerMerchantServices/
-- Instagram:  https://www.instagram.com/RazerMerchantServices/
+- GitHub:     https://github.com/FiuuPayment
+- Website:    https://fiuu.com/
+- Twitter:    https://twitter.com/FiuuPayment
+- YouTube:    https://www.youtube.com/c/FiuuPayment
+- Facebook:   https://www.facebook.com/FiuuPayment/
+- Instagram:  https://www.instagram.com/FiuuPayment/
 
 
 ## Support
 
-Submit issue to this repository or email to our support-sa@razer.com
+Submit issue to this repository or email to our support@fiuu.com
 
-Merchant Technical Support / Customer Care : support-sa@razer.com<br>
-Sales/Reseller Enquiry : sales-sa@razer.com<br>
-Marketing Campaign : marketing-sa@razer.com<br>
-Channel/Partner Enquiry : channel-sa@razer.com<br>
-Media Contact : media-sa@razer.com<br>
-R&D and Tech-related Suggestion : technical-sa@razer.com<br>
-Abuse Reporting : abuse-sa@razer.com
+Merchant Technical Support / Customer Care : support@fiuu.com<br>
+Sales/Reseller Enquiry : sales@fiuu.com<br>
+Marketing Campaign : marketing@fiuu.com<br>
+Channel/Partner Enquiry : channel@fiuu.com<br>
+Media Contact : media@fiuu.com<br>
+R&D and Tech-related Suggestion : technical@fiuu.com<br>
+Abuse Reporting : abuse@fiuu.com
