@@ -47,10 +47,11 @@ RMS Escrow & Mass Payout API : This document is available upon request only due 
 
 
 ## Resources
+
 - GitHub:     https://github.com/FiuuPayment
 - Website:    https://fiuu.com/
 - Twitter:    https://twitter.com/FiuuPayment
-- YouTube:    https://www.youtube.com/c/FiuuPayment
+- YouTube:    https://www.youtube.com/@FiuuPayment
 - Facebook:   https://www.facebook.com/FiuuPayment/
 - Instagram:  https://www.instagram.com/FiuuPayment/
 
